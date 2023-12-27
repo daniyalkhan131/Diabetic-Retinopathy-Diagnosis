@@ -78,6 +78,9 @@ target/
 # exclude data from source control by default
 #we removie data from this file because we want data to be handled by dvc 
 #/data/
+tmp 
+#i myself added this as we dont want remote location of our to data to be on
+#github 
 
 # Mac OS-specific storage files
 .DS_Store
